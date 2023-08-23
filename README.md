@@ -1,7 +1,5 @@
 ![Layla Bennett's Portfolio](layla.png.png)
 
-# Layla Bennett's Portfolio
-
 Welcome to my portfolio, where I showcase my work, projects, and contributions in the field of Artificial Intelligence and Data Science. I'm passionate about pushing the boundaries of AI-driven innovation and making a positive impact through technology.
 
 ## About Me
