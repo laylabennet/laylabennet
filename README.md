@@ -1,4 +1,4 @@
-![Layla Bennett's Portfolio](Minimalistic Creative Agency Business Banner.png)
+![Layla Bennett's Portfolio](layla.png.png)
 
 # Layla Bennett's Portfolio
 
